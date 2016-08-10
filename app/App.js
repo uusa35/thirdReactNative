@@ -12,9 +12,6 @@ import {
     TabBar,
     TabRoute
 } from 'react-native-router-redux';
-
-
-
 import todoActions from '../app/redux/actions/todoActions'
 import postActions from '../app/redux/actions/postActions'
 import propertiesActions from '../app/redux/actions/propertiesActions'
