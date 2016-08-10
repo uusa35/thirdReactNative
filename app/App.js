@@ -2,6 +2,19 @@ import React , { Component } from 'react';
 import { Navigator } from 'react-native';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux'
+import { connect } from 'react-redux/native';
+import {
+    actions as routerActions,
+    NavBar,
+    Route,
+    Router,
+    Schema,
+    TabBar,
+    TabRoute
+} from 'react-native-router-redux';
+
+
+
 import todoActions from '../app/redux/actions/todoActions'
 import postActions from '../app/redux/actions/postActions'
 import propertiesActions from '../app/redux/actions/propertiesActions'
