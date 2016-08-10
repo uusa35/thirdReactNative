@@ -17,7 +17,7 @@ class App extends Component {
     constructor(props, content) {
         super(props, content);
     }
-
+g
     render() {
         var menu = <Menu {...this.props}/>;
         return (
