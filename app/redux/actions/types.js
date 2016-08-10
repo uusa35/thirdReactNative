@@ -1,0 +1,12 @@
+export const POST_INDEX = 'POST_INDEX';
+export const POST_CREATE = 'POST_CREATE';
+export const POST_SHOW = 'POST_SHOW';
+export const TODO_INDEX = 'TODO_INDEX';
+export const TODO_CREATE = 'TODO_CREATE';
+export const COUNTER_INCREASE = 'COUNTER_INCREASE';
+export const DISABLE_LOADING = 'DISABLE_LOADING';
+export const ENABLE_LOADING = 'ENABLE_LOADING';
+export const TAB_SELECT = 'TAB_SELECT';
+export const NAV_SELECT_HOME = 'NAV_SELECT_HOME';
+export const NAV_SELECT_POST_SHOW = 'NAV_SELECT_POST_SHOW';
+export const NAV_UPDATE = 'NAV_UPDATE';

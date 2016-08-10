@@ -1,0 +1,36 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 20,
+					"ch": 23
+				},
+				"to": {
+					"line": 20,
+					"ch": 26
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"max": 600,
+			"group": "LIGHTBOX"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 21,
+					"ch": 22
+				},
+				"to": {
+					"line": 21,
+					"ch": 25
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"max": 600,
+			"group": "LIGHTBOX"
+		}
+	]
+}
